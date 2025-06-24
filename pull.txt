@@ -1,0 +1,7 @@
+@echo off
+cd /d "D:\Unity\NiceTry"
+
+echo Pulling latest changes from GitHub...
+git pull
+
+pause
