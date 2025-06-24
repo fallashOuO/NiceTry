@@ -1,28 +1,28 @@
-# Unity generated
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-[Ll]ogs/
-[Mm]emoryCaptures/
-UserSettings/
+Assets/AssetStoreTools*
+MemoryCaptures/
+*.unitypackage
 
-# Visual Studio / VS Code
+# VS/VS Code
 .vscode/
+.vs/
 *.csproj
-*.unityproj
 *.sln
+*.user
 *.suo
 *.tmp
-*.user
-*.userprefs
+*.bak
+*.ncb
+*.log
+*.cache
 *.pidb
 *.booproj
 *.svd
-*.pdb
-*.mdb
-*.opendb
 
 # OS
 .DS_Store
