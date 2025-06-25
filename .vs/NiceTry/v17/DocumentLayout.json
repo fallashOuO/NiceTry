@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\shiro1nori\\Desktop\\Project\\NiceTry\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{37CC7116-9EF3-D247-9B4B-39BAD401033B}|Assembly-CSharp.csproj|c:\\users\\shiro1nori\\desktop\\project\\nicetry\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "D:\\Unity\\NiceTry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CC7116-9EF3-D247-9B4B-39BAD401033B}|Assembly-CSharp.csproj|d:\\unity\\nicetry\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 6315b7ae19370d4e180f510bba8f7f2e269691c0
       "RelativeMoniker": "D:0:0:{37CC7116-9EF3-D247-9B4B-39BAD401033B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,6 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -27,6 +35,25 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T09:39:19.15Z",
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\NiceTry\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\NiceTry\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:38:07.689Z",
+>>>>>>> 6315b7ae19370d4e180f510bba8f7f2e269691c0
               "EditorCaption": ""
             }
           ]
